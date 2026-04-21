@@ -14,11 +14,11 @@
 
 # 
 
-# \- \*\*documentation/\*\* → full report (analysis, risk, business impact)
+# documentation → full report (analysis, risk, business impact)
 
-# \- \*\*technical-evidence/\*\* → raw scan outputs (nmap, nikto, nuclei)
+# technical-evidence → raw scan outputs (nmap, nikto, nuclei)
 
-# \- \*\*screenshots-media/\*\* → screenshots from the lab
+# screenshots-media → screenshots from the lab
 
 # 
 
