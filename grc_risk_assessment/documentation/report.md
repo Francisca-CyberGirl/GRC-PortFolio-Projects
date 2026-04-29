@@ -166,5 +166,4 @@ Fixing these issues will reduce both technical risk and business impact.
 
 I confirm that this report is my own work.
 
-**Signature:**  
 **Date:** 13th April, 2026  
